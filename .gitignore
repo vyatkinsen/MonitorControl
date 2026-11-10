@@ -1,0 +1,19 @@
+**/bin/
+**/obj/
+/artifacts/
+/dist/
+/.vs/
+*.user
+*.suo
+
+# Downloaded runtime, compiler, symbol cache, and machine-specific settings.
+/tools/
+*.lnk
+
+# Local research and the superseded standalone tray prototype.
+/research/
+/src/
+/tests/
+/docs/
+/MonitorControl.sln
+/Build-TrayPrototype.ps1
